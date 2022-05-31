@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lafontolanx
 - 👀 I’m interested in being happy w/ my work.
-- 🌱 I’m currently learning Design UX/UI and Programming.
+- 🌱 I’m currently learning JavaScript and ReactJS.
 - 📫 How to reach me: laura_fontolan@hotmail.com
 
 <!---
